@@ -5,4 +5,3 @@ def speak_to_grandma(greeting)
     puts "NO, NOT SINCE 1983!"
   else greeting = "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
-end
