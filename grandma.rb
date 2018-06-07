@@ -1,6 +1,6 @@
 def speak_to_grandma(string)
-  if string == string.upcase 
-    
+  if string == string.downcase 
+    puts "HUH"
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
